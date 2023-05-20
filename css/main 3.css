@@ -1,0 +1,23 @@
+.qqq{
+    background: linear-gradient(100deg, #43cca3, #4e4eff);
+}
+p{
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+}
+.mmm{
+    width: 90px;
+    font-size: 16px;
+    height: 50px;
+    margin-left: 1300px;
+    margin-top: -500px;
+}
+.www{
+    width: 500px;
+    text-align: center;
+    margin-top: -400px;
+    padding-bottom: 300px;
+    margin-left: 1100px;
+    box-sizing: border-box;
+}
